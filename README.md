@@ -1,4 +1,4 @@
-This repository contains the files used for data analysis in the study Improved agricultural management practices enable increased crop production within safe nitrogen and phosphorus boundaries of a lake basin
+This repository contains the files used for data analysis in the study Improved agricultural management co-created in science-farmer collaboration enhances crop production within safe nitrogen and phosphorus boundaries
 
 Authors: Pengqi Liu¹, Feiyu Ying¹, Xin Zhang², Wim de Vries³, Xuejun Liu¹, Zhi Yao⁴, Kang Wang⁵, Qingwen Shi¹, Zhuo Chen⁴, Xiaowen Gu¹, Yuxiao Wu¹, Mingyang Wang¹, Boyao Zhi¹, Wen-Feng Cong¹⁴*, Zhengxiong Zhao⁴, Fusuo Zhang¹, Hao Ying¹*
 
